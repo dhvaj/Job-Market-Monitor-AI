@@ -1,0 +1,5 @@
+{
+  "name": "Job Market Monitor AI",
+  "description": "A dashboard that simulates a job board scraper, validates data, and uses Gemini to rate job matches based on your skills, sending simulated notifications for high matches.",
+  "requestFramePermissions": []
+}
